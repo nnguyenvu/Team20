@@ -1,0 +1,11 @@
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\bin\Debug\netcoreapp2.0\midterm.deps.json
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\bin\Debug\netcoreapp2.0\midterm.runtimeconfig.json
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\bin\Debug\netcoreapp2.0\midterm.runtimeconfig.dev.json
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\bin\Debug\netcoreapp2.0\midterm.dll
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\obj\Debug\netcoreapp2.0\midterm.csprojAssemblyReference.cache
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\obj\Debug\netcoreapp2.0\midterm.csproj.CoreCompileInputs.cache
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\obj\Debug\netcoreapp2.0\midterm.AssemblyInfoInputs.cache
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\obj\Debug\netcoreapp2.0\midterm.AssemblyInfo.cs
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\bin\Debug\netcoreapp2.0\midterm.pdb
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\obj\Debug\netcoreapp2.0\midterm.dll
+D:\GITHUB\Team20\K39104105DinhTranNguyenVuDe1\midterm\obj\Debug\netcoreapp2.0\midterm.pdb
